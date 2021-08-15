@@ -13,4 +13,4 @@ design:
 
 <br>
 
-**Huang LAB** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+**Huang LAB** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding.
