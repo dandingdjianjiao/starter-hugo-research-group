@@ -42,4 +42,4 @@ user_groups:
   - Researchers
 highlight_name: false
 ---
-Hanmin Huang is a professor of [the School of Chemistry and Materials Science in USTC](<https://scms.ustc.edu.cn/>). His research interests include organic synthesis oriented metal-organic chemistry, homogeneous catalysis reaction and its mechanism. He leads Huang Lab, which focuses mostly on inert chemical bond activation and asymmetrical catalyzing.
+Hanmin Huang is a professor of [the School of Chemistry and Materials Science in USTC](<https://scms.ustc.edu.cn/>). His research interests include organic synthesis oriented metal-organic chemistry, homogeneous catalysis reaction and its mechanism. He leads Huang LAB, which focuses mostly on inert chemical bond activation and asymmetrical catalyzing.
