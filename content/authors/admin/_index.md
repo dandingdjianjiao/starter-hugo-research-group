@@ -3,37 +3,36 @@ title: Hanmin Huang
 role: Professor of the School of Chemistry and Materials Science, USTC
 bio: My research interests include organic synthesis oriented metal-organic
   chemistry, homogeneous catalysis reaction and its mechanism.
-interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+interests: []
 social:
   - icon: envelope
-    icon_pack: fas
-    link: mailto:test@example.org
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    icon_pack: ai
+    link: hanmin@ustc.edu.cn
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/gcushen
-organizations:
-  - name: Stanford University
-    url: ""
+organizations: []
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: Professor, Ph.D. Supervisor
+      institution: Chemistry Department, USTC,  Hefei National Laboratory for Physical
+        Sciences at the Microscale
+      year: ""
+    - course: Ph.D. Supervisor, Researcher, Deputy Director of the State Key Laboratory
+      institution: Lanzhou Institute of Chemical Physics
+      year: ""
+    - course: JSPS Fellow
+      institution: Research Center for Material Science, Nagoya University
+      year: ""
+    - course: PhD in Chemistry
+      institution: Dalian Institute of Chemical Physics, CAS
+      year: ""
+    - course: MEng in Chemistry
+      institution: Huazhong University of Science and Techonology
+      year: ""
+    - course: BSc in Soil Chemistry
+      institution: Hubei Agricultural College
+      year: ""
 email: ""
 superuser: true
 user_groups:
