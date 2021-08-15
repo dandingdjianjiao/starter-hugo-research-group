@@ -1,6 +1,7 @@
 ---
 title: Hanmin Huang
 role: Professor of the School of Chemistry and Materials Science, USTC
+avatar_filename: hanmin.jpg
 bio: My research interests include organic synthesis oriented metal-organic
   chemistry, homogeneous catalysis reaction and its mechanism.
 interests: []
