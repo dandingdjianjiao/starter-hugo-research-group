@@ -1,7 +1,7 @@
 ---
 title: 黄家辉
 role: Professor of Artificial Intelligence
-avatar_filename: https://huangjiahui.w3spaces.com/hjh_profile.jpg?bypass-cache=1629039634
+avatar_filename: avatar.jpg
 organizations:
   - name: Stanford University
     url: ""
