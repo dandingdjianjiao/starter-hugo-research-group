@@ -20,4 +20,4 @@ design:
   view: 3
   columns: "1"
 ---
-This is a **test**.
+You can find the latest news here.
