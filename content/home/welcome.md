@@ -13,4 +13,4 @@ design:
 
 <br>
 
-**Huang LAB** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding.
+**Huang LAB** has been a center of excellence for organic chemistry research, teaching, and practice since its founding.
