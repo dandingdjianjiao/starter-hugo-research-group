@@ -9,6 +9,7 @@ abstract: A novel, highly selective palladium-catalyzed vinylation reaction for
 view: 4
 title: "Palladium-Catalyzed Vinylation of Aminals with Simple Alkenes: A New
   Strategy To Construct Allylamines"
+subtitle: zzz
 publication_types:
   - "2"
 authors:
