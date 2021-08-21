@@ -7,7 +7,7 @@ bio: My research interests include organic synthesis oriented metal-organic
 interests: []
 social:
   - icon: envelope
-    icon_pack: ai
+    icon_pack: fas
     link: hanmin@ustc.edu.cn
     display:
       header: false
