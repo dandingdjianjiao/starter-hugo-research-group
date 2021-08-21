@@ -8,7 +8,7 @@ authors:
   - Jianhua Hu
   - Yanyu Wang
   - Chungu Xia
-  - and Hanmin Huang*
+  - Hanmin Huang
 doi: 10.1021/ja310848x
 publication: Journal of the American Chemical Society
 draft: false
