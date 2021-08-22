@@ -18,6 +18,8 @@ abstract: A new and atom-economic palladium-catalyzed aminomethylamination of
   cyclometalated palladium–alkyl species.
 draft: false
 featured: false
+tags:
+  - aminal
 image:
   filename: featured.jpg
   focal_point: Smart
