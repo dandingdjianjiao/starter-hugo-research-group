@@ -21,7 +21,7 @@ abstract: A novel, highly selective palladium-catalyzed vinylation reaction for
 draft: false
 featured: false
 image:
-  filename: featured.png
+  filename: ""
   focal_point: SMART
   preview_only: false
   caption: ""
