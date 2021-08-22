@@ -5,6 +5,7 @@ avatar_filename: avatar.jpg
 organizations:
   - name: Stanford University
     url: ""
+  - name: University of Science and Technology of China
 superuser: false
 authors:
   - 吳恩達
