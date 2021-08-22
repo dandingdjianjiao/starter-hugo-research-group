@@ -21,7 +21,7 @@ abstract: A novel, highly selective palladium-catalyzed vinylation reaction for
 draft: false
 featured: false
 image:
-  filename: https://pubs.acs.org/na101/home/literatum/publisher/achs/journals/content/jacsat/2012/jacsat.2012.134.issue-51/ja310848x/production/images/medium/ja-2012-10848x_0008.gif
+  filename: featured.png
   focal_point: SMART
   preview_only: false
   caption: ""
