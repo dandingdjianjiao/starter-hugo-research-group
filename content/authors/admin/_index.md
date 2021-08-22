@@ -4,7 +4,18 @@ role: Professor of Organic Chemistry, USTC
 avatar_filename: avatar.jpg
 bio: My research interests include organic synthesis oriented metal-organic
   chemistry, homogeneous catalysis reaction and its mechanism.
-interests: []
+work experience:
+  courses:
+    - course: Professor, Ph.D. Supervisor
+      institution: Chemistry Department, USTC,  Hefei National Laboratory for Physical
+        Sciences at the Microscale
+      year: ""
+    - course: Ph.D. Supervisor, Researcher, Deputy Director of the State Key Laboratory
+      institution: Lanzhou Institute of Chemical Physics
+      year: ""
+    - course: JSPS Fellow
+      institution: Research Center for Material Science, Nagoya University
+      year: ""
 social:
   - icon: envelope
     icon_pack: fas
