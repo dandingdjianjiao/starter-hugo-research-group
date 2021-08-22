@@ -21,12 +21,12 @@ abstract: A novel, highly selective palladium-catalyzed vinylation reaction for
 draft: false
 featured: false
 image:
-  filename: ""
-  focal_point: center
+  filename: https://pubs.acs.org/na101/home/literatum/publisher/achs/journals/content/jacsat/2012/jacsat.2012.134.issue-51/ja310848x/production/images/medium/ja-2012-10848x_0008.gif
+  focal_point: SMART
   preview_only: false
-  caption: "Image credit: [**ACS
-    Publications**](https://pubs.acs.org/na101/home/literatum/publisher/achs/jo\
-    urnals/content/jacsat/2012/jacsat.2012.134.issue-51/ja310848x/production/im\
-    ages/medium/ja-2012-10848x_0008.gif）"
+  caption: ""
+summary: A novel, highly selective palladium-catalyzed vinylation reaction for
+  the direct synthesis of allylic amines from styrenes and aminals has been
+  established.
 date: 2012-12-11T23:07:00.000Z
 ---
