@@ -17,7 +17,7 @@ work experience:
       institution: Research Center for Material Science, Nagoya University
       year: ""
       
-interests:
+work experience:
   - Artificial Intelligence
   - Computational Linguistics
   - Information Retrieval
