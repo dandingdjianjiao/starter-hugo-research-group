@@ -16,6 +16,11 @@ work experience:
     - course: JSPS Fellow
       institution: Research Center for Material Science, Nagoya University
       year: ""
+      
+interests:
+  - Artificial Intelligence
+  - Computational Linguistics
+  - Information Retrieval
 social:
   - icon: envelope
     icon_pack: fas
