@@ -24,6 +24,9 @@ image:
   filename: ""
   focal_point: center
   preview_only: false
-  caption: https://pubs.acs.org/na101/home/literatum/publisher/achs/journals/content/jacsat/2012/jacsat.2012.134.issue-51/ja310848x/production/images/medium/ja-2012-10848x_0008.gif
-date: 2021-08-21T12:55:12.371Z
+  caption: "Image credit: [**ACS
+    Publications**](https://pubs.acs.org/na101/home/literatum/publisher/achs/jo\
+    urnals/content/jacsat/2012/jacsat.2012.134.issue-51/ja310848x/production/im\
+    ages/medium/ja-2012-10848x_0008.gif）"
+date: 2012-12-11T23:07:00.000Z
 ---
