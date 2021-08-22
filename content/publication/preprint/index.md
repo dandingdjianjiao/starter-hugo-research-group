@@ -12,7 +12,7 @@ abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere
   dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum
   arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla
   eleifend gravida.
-draft: true
+draft: false
 slides: test3
 url_pdf: http://arxiv.org/pdf/1512.04133v1
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere
@@ -25,11 +25,11 @@ url_video: "#"
 title: An example preprint / working paper
 subtitle: vhjcvhlv
 publication: https://arxiv.org/pdf/1512.04133v1.pdf
-featured: true
+featured: false
 tags: []
 categories:
   - test1
-date: 2019-04-07T00:00:00Z
+date: 2019-04-07T00:00:00.000Z
 url_slides: ""
 links:
   - name: Custom Link
@@ -41,7 +41,7 @@ image:
   focal_point: ""
   preview_only: false
   alt_text: test4
-publishDate: 2017-01-01T00:00:00Z
+publishDate: 2017-01-01T00:00:00.000Z
 url_poster: "#"
 url_code: "#"
 doi: https://arxiv.org/pdf/1512.04133v1.pdf
