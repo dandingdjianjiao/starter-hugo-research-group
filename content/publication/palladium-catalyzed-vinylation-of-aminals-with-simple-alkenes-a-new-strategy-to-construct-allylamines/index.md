@@ -20,6 +20,8 @@ abstract: A novel, highly selective palladium-catalyzed vinylation reaction for
   aminal to a Pd(0) species.
 draft: false
 featured: false
+tags:
+  - aminal
 image:
   filename: ""
   focal_point: SMART
