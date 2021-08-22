@@ -22,7 +22,7 @@ draft: false
 featured: false
 image:
   filename: https://pubs.acs.org/na101/home/literatum/publisher/achs/journals/content/jacsat/2012/jacsat.2012.134.issue-51/ja310848x/production/images/medium/ja-2012-10848x_0008.gif
-  focal_point: Smart
+  focal_point: center
   preview_only: false
 date: 2021-08-21T12:55:12.371Z
 ---
