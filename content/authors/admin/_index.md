@@ -6,15 +6,18 @@ bio: My research interests include organic synthesis oriented metal-organic
   chemistry, homogeneous catalysis reaction and its mechanism.
   
 interests:
-  - Artificial Intelligence
-  - course: Professor, Ph.D. Supervisor
+  courses:
+    - course: Professor, Ph.D. Supervisor
       institution: Chemistry Department, USTC,  Hefei National Laboratory for Physical
         Sciences at the Microscale
       year: 2016.3-present
-  - course: Ph.D. Supervisor, Researcher, Deputy Director of the State Key Laboratory
+    - course: Ph.D. Supervisor, Researcher, Deputy Director of the State Key Laboratory
       institution: Lanzhou Institute of Chemical Physics
-      year: 2008.4-2016.2 
-  - Information Retrieval
+      year: 2008.4-2016.2
+    - course: JSPS Fellow
+      institution: Research Center for Material Science, Nagoya University
+      year: 2004.9-2008.3
+
 
 
 
