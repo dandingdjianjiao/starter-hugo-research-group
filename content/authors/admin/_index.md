@@ -6,9 +6,9 @@ bio: My research interests include organic synthesis oriented metal-organic
   chemistry, homogeneous catalysis reaction and its mechanism.
   
 interests:
-  - Professor, Ph.D. Supervisor, Chemistry Department, USTC, Hefei National Laboratory for Physical Sciences at the Microscale, 2016.3-present
-  - Ph.D. Supervisor, Researcher, Deputy Director of the State Key Laboratory, Lanzhou Institute of Chemical Physics, 2008.4-2016.2
-  - JSPS Fellow, Research Center for Material Science, Nagoya University, 2004.9-2008.3
+  - Professor
+  - Ph.D. Superviso
+  - JSPS Fellow
 
 
 work_experience:
