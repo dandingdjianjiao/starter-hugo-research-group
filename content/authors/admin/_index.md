@@ -6,7 +6,7 @@ bio: My research interests include organic synthesis oriented metal-organic
   chemistry, homogeneous catalysis reaction and its mechanism.
   
 interests:
-  - Professor
+  - Professor,  Chemistry Department, USTC
   - Ph.D. Superviso
   - JSPS Fellow
 
