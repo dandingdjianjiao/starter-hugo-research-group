@@ -13,7 +13,7 @@ education:
   courses:
     - course: BSc in Chemistry
       institution: Nanjing Tech University
-      year: 2017
+      year: 2013
     - course: PhD in Organic Chemistry
       institution: University of Science and Technology of China
 email: sczou@mail.ustc.edu.cn
