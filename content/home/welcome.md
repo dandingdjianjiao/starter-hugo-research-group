@@ -1,6 +1,6 @@
 ---
 widget: hero
-widget_id: Huang LAB
+widget_id: Transformative Organometallic Chemistry
 headless: true
 weight: 10
 title: Huang LAB
