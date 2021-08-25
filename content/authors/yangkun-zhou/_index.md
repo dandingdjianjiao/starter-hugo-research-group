@@ -11,7 +11,7 @@ social:
 education:
 	courses:
     - course: BSc in Chemistry
-			instruction: Hefei University of Technology 
+			institution: Hefei University of Technology 
 			year: 2016
 email: zhouyk@mail.ustc.edu.cn
 superuser: false
