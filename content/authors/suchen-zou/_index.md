@@ -1,6 +1,6 @@
 ---
 title: Suchen Zou
-role: Dorctoral Student
+role: Doctoral Student
 avatar_filename: ztz-2.jpg
 interests:
   - Chiral ligand
