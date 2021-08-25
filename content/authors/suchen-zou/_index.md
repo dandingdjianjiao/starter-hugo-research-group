@@ -19,5 +19,5 @@ education:
 email: sczou@mail.ustc.edu.cn
 superuser: false
 user_groups:
-  - RESEARCHER
+  - Researchers
 ---
