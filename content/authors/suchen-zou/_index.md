@@ -1,7 +1,7 @@
 ---
 title: Suchen Zou
 role: Dorctoral Student
-avatar_filename: avatar
+avatar_filename: ztz-2.jpg
 interests: []
 social:
   - display:
