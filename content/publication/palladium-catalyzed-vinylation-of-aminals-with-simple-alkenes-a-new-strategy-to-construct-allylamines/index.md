@@ -26,14 +26,8 @@ tags:
 links:
 - name: Custom Link
   url: http://example.org
-url_pdf: http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf
-url_code: '#'
-url_dataset: '#'
-url_poster: '#'
-url_project: ''
-url_slides: ''
-url_source: '#'
-url_video: '#'
+url_pdf: https://pubs.acs.org/doi/pdf/10.1021/ja310848x
+
 
 image:
   filename: ""
