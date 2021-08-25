@@ -2,7 +2,9 @@
 title: Suchen Zou
 role: Dorctoral Student
 avatar_filename: ztz-2.jpg
-interests: []
+interests:
+  - Chiral ligand
+  - Asymetric synthesis
 social:
   - display:
       header: false
